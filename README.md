@@ -5,4 +5,5 @@ We also learned how to implement UISearchController to be able to accurately sea
 
 
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/74436549/135350460-a061d21d-701a-4172-a5f2-543772c0ea8f.gif)
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/74436549/135351174-dfc78bee-0033-4bc3-9ead-214e88ce1e71.gif)
